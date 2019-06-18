@@ -1,2 +1,2 @@
 # BurstSMS
-For Bursts SMS testing and learning
+For Bursts SMS testing and learning!
